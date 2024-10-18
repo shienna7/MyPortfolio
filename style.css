@@ -22,7 +22,7 @@ html{
   width: 100%;
   z-index: 999;
   padding: 30px 0;
-  /* background: blue; */
+  /* background: DodgerBlue; */
   font-family: "Ubuntu", sans-serif;
   transition: all 0.3s ease;
 }
@@ -64,7 +64,7 @@ html{
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: crimson;
+  color: DodgerBlue;
 }
 .navbar .sticky .menu li a:hover {
   color: white;
@@ -79,7 +79,7 @@ html{
   position: fixed;
   height: 45px;
   width: 42px;
-  background: crimson;
+  background: DodgerBlue;
   right: 30px;
   bottom: 10px;
   text-align: center;
@@ -130,22 +130,22 @@ html{
 }
 
 .home .home-content .text-3 span {
-  color: crimson;
+  color: DodgerBlue;
   font-weight: 500;
 }
 .home .home-content a {
   display: inline-block;
-  background: crimson;
+  background: DodgerBlue;
   color: white;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid crimson;
+  border: 2px solid DodgerBlue;
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
-  color: crimson;
+  color: DodgerBlue;
   background: none;
 }
 /* Similar styling code */
@@ -193,7 +193,7 @@ section .title::after {
   bottom: -12px;
   left: 50%;
   font-size: 20px;
-  color: crimson;
+  color: DodgerBlue;
   padding: 5px;
   background: white;
   transform: translateX(-50%);
@@ -222,14 +222,14 @@ section .title::after {
   margin-bottom: 10px;
 }
 .about .about-content .right .text span {
-  color: crimson;
+  color: DodgerBlue;
 }
 .about .about-content .right p {
   text-align: justify;
 }
 .about .about-content .right a {
   display: inline-block;
-  background: crimson;
+  background: DodgerBlue;
   color: white;
   font-size: 20px;
   font-weight: 500;
@@ -240,7 +240,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .about .about-content .right a:hover {
-  color: crimson;
+  color: DodgerBlue;
   background: none;
 }
 /* My work section styling */
@@ -265,7 +265,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .mywork .mywork-content .card:hover {
-  background: crimson;
+  background: DodgerBlue;
 }
 .mywork .mywork-content .card .box {
   transition: all 0.3s ease;
@@ -275,7 +275,7 @@ section .title::after {
 }
 .mywork .mywork-content .card i {
   font-size: 50px;
-  color: crimson;
+  color: DodgerBlue;
   transition: color 0.3s ease;
 }
 .mywork .mywork-content .card:hover i {
@@ -304,18 +304,18 @@ section .title::after {
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: crimson;
+  background: DodgerBlue;
   color: white;
   font-size: 18px;
   font-weight: 500;
   padding: 8px 16px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid crimson;
+  border: 2px solid DodgerBlue;
   transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover {
-  color: crimson;
+  color: DodgerBlue;
   background: none;
 }
 .skills .skills-content .right .bars {
@@ -343,7 +343,7 @@ section .title::after {
   height: 100%;
   left: 0;
   top: 0;
-  background: crimson;
+  background: DodgerBlue;
 }
 .skills-content .right .html::before {
   width: 90%;
@@ -389,7 +389,7 @@ section .title::after {
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: crimson;
+  color: DodgerBlue;
 }
 .contact .contact-content .info .head {
   font-weight: 500;
@@ -440,8 +440,8 @@ section .title::after {
 .contact .right form .button button{
   width: 100%;
   height: 100%;
-  border: 2px solid crimson;
-  background: crimson;
+  border: 2px solid DodgerBlue;
+  background: DodgerBlue;
   color: white;
   font-size: 20px;
   border-radius: 6px;
@@ -450,7 +450,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-  color: crimson;
+  color: DodgerBlue;
   background: none;
 
 }
@@ -461,7 +461,7 @@ footer{
   color: white;
 }
 footer span a{
-  color: crimson;
+  color: DodgerBlue;
   text-decoration: none;
 }
 footer span a:hover{
